@@ -1,3 +1,3 @@
 CS231n
 
-Schedule and Syllabus
+[Syllabus](http://cs231n.stanford.edu/2017/syllabus.html)
