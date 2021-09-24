@@ -1,8 +1,8 @@
 21.09.02 ~ 9.24 
 EveryWeeks 수 금
 
-Group - 
-01. 김경문 02. 김수민 03. 김수연 04. 김지현 05. 김태균 06. 김혜지 07. 나 융 08. 박진우 09. 윤준영10. 정강민 11. 정민소 12. 조해창 13. 최동현
+Studygroup - 
+[김경문 김수민 김수연 김지현 김태균 김혜지 나 융 박진우 윤준영 정강민 정민소 조해창 최동현]
 
 [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition
 
