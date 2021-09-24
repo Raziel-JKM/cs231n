@@ -2,7 +2,7 @@
 EveryWeeks 수 금
 
 Studygroup - 
-[김경문 김수민 김수연 김지현 김태균 김혜지 나 융 박진우 윤준영 정강민 정민소 조해창 최동현]
+김경문 김수민 김수연 김지현 김태균 김혜지 나 융 박진우 윤준영 정강민 정민소 조해창 최동현
 
 [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition
 
