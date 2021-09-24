@@ -23,3 +23,5 @@
 | Lecture 14       |Deep Reinforcement Learning|[video](https://www.youtube.com/watch?v=lvoHnicueoE&index=13&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|[slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)|||
 | Guest Lecture       |Invited Talk: [Song Han](https://songhan.mit.edu/) <br> Efficient Methods and Hardware for Deep Learning|[video](https://www.youtube.com/watch?v=eZdOkDtYMoo&index=14&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|[slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf)|||
 | Guest Lecture       |Invited Talk: [Ian Goodfellow](http://www.iangoodfellow.com/) <br> Adversarial Examples and Adversarial Training|[video](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=15)|[slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture16.pdf)|||
+
+![image](https://user-images.githubusercontent.com/82854823/134602141-5cc5932f-1536-4bcd-9951-aefea1ef0f5e.png)
